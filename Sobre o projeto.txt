@@ -11,6 +11,7 @@ então instanciar, linkar e etc
 criamos o projeto sobre o projeto txt, escrevemos, ctrl S
 
 então no terminal fomo: git init > git add .\sobre projeto >
+git remote add origin https://github.com/MauroBHjr/atividadeDaProf.git
 git branch -m master
 git commit .\sobre projeto > -m "comentários"
 git push -u origin master 
